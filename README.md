@@ -19,6 +19,8 @@ A collection of self-learning resources.
 
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) by Danny Friedman.
 
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake VanderPlas.
+
 
 ### Math
 
