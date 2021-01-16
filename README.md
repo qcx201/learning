@@ -28,6 +28,8 @@ A collection of self-learning resources.
 
 * [MIT Calculus Revisited: Multivariable Calculus](https://www.youtube.com/playlist?list=PL1C22D4DED943EF7B) with Herbert Gross.
 
+* [MIT Calculus Revisited: Calculus of Complex Variables](https://www.youtube.com/playlist?list=PLD971E94905A70448) with Herbert Gross.
+
 * [MIT Learn Differential Equations](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) with Gilbert Strang and Cleve Moler.
 
 * [Euclid's Elements](https://www.youtube.com/c/SandyBultena/playlists) with Sandy Bultena.
