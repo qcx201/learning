@@ -6,7 +6,7 @@ Curious people welcome.
 
 Selected collection of self-learning resources.
 
-#### Python and Programming
+### Python and Programming
 
 * [Introduction to Python for Data Science
 ](https://github.com/ipeirotis/introduction-to-python) by NYU professor Panos Ipeirotis.
@@ -20,7 +20,7 @@ Selected collection of self-learning resources.
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) by Danny Friedman.
 
 
-#### Math
+### Math
 
 * [Paul's Online Notes](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) for basic calculus.
 
