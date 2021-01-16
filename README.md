@@ -1,19 +1,23 @@
 # Here is where we learn 🧠🙌
 
-The curiouse are welcome.
+Curious people welcome.
 
-## Resources
+## Free Resources
+
+A selected collection of amazing self-learning resources.
 
 #### Python
 
 * [Introduction to Python for Data Science
-](https://github.com/ipeirotis/introduction-to-python) by NYU professor Panos Ipeirotis
+](https://github.com/ipeirotis/introduction-to-python) by NYU professor Panos Ipeirotis.
 
 * [Dealing with Data](https://github.com/ipeirotis/dealing_with_data), the continuation course with Professor Ipeirotis.
 
-* [Data Bootcamp: The Book](https://nyudatabootcamp.gitbook.io/thebook/) from NYU economics course.
+* [Data Bootcamp: The Book](https://nyudatabootcamp.gitbook.io/thebook/): Materials from an introductory python course at NYU Stern Economics.
 
-* [QuantEcon](https://quantecon.org/lectures/) economics and datascience lectures with Python and Julia.
+* [QuantEcon](https://quantecon.org/lectures/): Quantative economics and data science lectures with Python and Julia.
+
+* [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) by Danny Friedman.
 
 
 #### Math
