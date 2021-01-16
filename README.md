@@ -4,7 +4,7 @@ Curious people welcome.
 
 ## Free Resources
 
-A selected collection of amazing self-learning resources.
+Selected collection of self-learning resources.
 
 #### Python
 
