@@ -6,7 +6,7 @@ Curious people welcome.
 
 Selected collection of self-learning resources.
 
-#### Python
+#### Python and Programming
 
 * [Introduction to Python for Data Science
 ](https://github.com/ipeirotis/introduction-to-python) by NYU professor Panos Ipeirotis.
