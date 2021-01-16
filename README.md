@@ -14,7 +14,6 @@
 
 * [QuantEcon](https://quantecon.org/lectures/) economics and datascience lectures with Python and Julia.
 
----
 
 #### Math
 
