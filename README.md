@@ -1,8 +1,7 @@
-## Here is where we learn 🧠🙌
+# Here is where we learn 🧠🙌
 
----
 
-### Learning Resources
+## Learning Resources
 
 #### Python
 
@@ -17,7 +16,7 @@
 
 ---
 
-### Mathematics
+#### Math
 
 * [Paul's Online Notes](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) for basic calculus.
 
