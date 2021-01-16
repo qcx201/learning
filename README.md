@@ -21,6 +21,8 @@ A collection of self-learning resources.
 
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake VanderPlas.
 
+* [The Arcane Algorithm Archive](https://www.algorithm-archive.org/) by James Schloss.
+
 
 ### Math
 
