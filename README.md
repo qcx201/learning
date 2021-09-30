@@ -1,10 +1,10 @@
 # Here is where we learn 🧠🙌
 
-Curious people welcome.
+Welcome friends.
 
-## Free Resources
+## Resources
 
-A collection of self-learning resources.
+A collection of free self-learning resources.
 
 ### Python and Programming
 
