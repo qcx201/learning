@@ -38,6 +38,8 @@ A collection of free self-learning resources.
 
 * [Euclid's Elements](https://www.youtube.com/c/SandyBultena/playlists) with Sandy Bultena.
 
+* [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/), an introductory book on mathematical proof techniques.
+
 * [Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8), introductory probability course at MIT.
 
 * [Probability Foundation for Electrical Engineering](https://www.youtube.com/playlist?list=PLbMVogVj5nJQqGHrpAloTec_lOKsG-foc): Probability course with measure theory at India Institute of Technology Madras.
