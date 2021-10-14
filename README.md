@@ -1,10 +1,10 @@
 # Here is where we learn 🧠🙌
 
-Curious people welcome.
+Welcome friends.
 
-## Free Resources
+## Resources
 
-A collection of self-learning resources.
+A collection of free self-learning resources.
 
 ### Python and Programming
 
@@ -37,6 +37,8 @@ A collection of self-learning resources.
 * [MIT Learn Differential Equations](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) with Gilbert Strang and Cleve Moler.
 
 * [Euclid's Elements](https://www.youtube.com/c/SandyBultena/playlists) with Sandy Bultena.
+
+* [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/), an introductory book on mathematical proof techniques.
 
 * [Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8), introductory probability course at MIT.
 
