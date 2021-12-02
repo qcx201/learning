@@ -1,10 +1,10 @@
 # Here is where we learn 🧠🙌
 
-Welcome friends.
+Curious people welcome.
 
 ## Resources
 
-A collection of free self-learning resources.
+A collection of free self-learning resources. Also check out [ParetoPy](https://github.com/websitenotavailable/ParetoPy), a similar self-learning repository for Python workshop at Uppsala University.
 
 ### Python and Programming
 
