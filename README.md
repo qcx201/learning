@@ -1,6 +1,6 @@
 # Here is where we learn 🧠🙌
 
-Curious people welcome.
+Curious people welcome!
 
 ## Resources
 
